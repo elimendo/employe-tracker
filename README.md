@@ -41,3 +41,5 @@ Inquirer.js for handling command-line prompts
 MySQL for database management
 Ensure all dependencies are properly installed to guarantee the smooth running of the application.
 
+## video link
+https://app.screencastify.com/v3/watch/iUrvFEEpFlQ1uxZXjDce
